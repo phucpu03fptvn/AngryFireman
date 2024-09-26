@@ -1,0 +1,44 @@
+# Tạm thời
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Pp]rojectSettings/EditorBuildSettings.asset
+
+# Tệp môi trường phát triển
+.vs/
+.idea/
+.vscode/
+
+# Tệp cache
+Cache/
+*.tmp
+
+# Tệp tạm thời và log
+*.log
+*.bak
+*.swp
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+*.sublime-workspace
+*.sublime-project
+
+# Tệp tài nguyên
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# Tệp dữ liệu từ các công cụ bên thứ ba
+*.asset
+*.apk
+*.unitypackage
